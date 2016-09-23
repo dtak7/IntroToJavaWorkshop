@@ -52,9 +52,10 @@ public class TurtleTreasureHunt implements KeyEventDispatcher {
 		System.out.println(Tortoise.getY());
 		// 6. If tortoise is at same location as the little girl,
 		// 			make a pop-up tell the Tortoise where to go next
-		if(tortoiseLocationX ==520&& tortoiseLocationY==312);
+		if(tortoiseLocationX ==520 && tortoiseLocationY==312) 
 		 JOptionPane.showConfirmDialog(null, "go to the boy");
 		// 7. Give the user subsequent clues at different locations on the image
+		  
 		// (pirate robot, swamp, parrots, etc.)
 
 		
